@@ -6,5 +6,5 @@
 
 - 👀 I’m currently interested in: React and Next.js
 - 🌱 I’m currently learning: Go
-- 🌱 What I want to learn next: Rust
+- 🔆 Dark or light theme? Light (Solarized)
 - 🎸 My best guitar: Martin HD28
