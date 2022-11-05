@@ -1,6 +1,6 @@
 # Benito Lopez
 
-👋 Hi, I'm Benito. I am a software engineer. I love working on challenging projects, learning new things and getting better at what I already know. In my spare time, I'm a [musician](https://www.instagram.com/iibrimusic/).
+👋 Hi, I'm Benito, a software engineer. I love working on challenging projects, learning new things and getting better at what I already know. In my spare time, I'm a [musician](https://www.instagram.com/iibrimusic/).
 
 ## About Me
 
