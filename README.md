@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👀 I’m currently interested in: React and Next.js
+- 👀 I’m currently interested in: React
 - 🌱 I’m currently learning: Mathematics
 - 🔆 Dark or light theme? Light (Solarized)
 - 🎸 My best guitar: Martin HD28
