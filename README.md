@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 👀 I’m currently interested in: React
-- 🌱 I’m currently learning: Mathematics
-- 🔆 Dark or light theme? Light (Solarized)
-- 🎸 My best guitar: Martin HD28
+- 👀 I’m currently interested in: React and Go
+- 📚 I’m currently studying: Mathematics (BSc)
+- 🔆 Dark or light theme? Light (GitHub Light or Solarized Light)
+- 🎸 My best guitar: Martin HD28, but I always come back to my trusty tele
