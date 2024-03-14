@@ -9,4 +9,4 @@
 - 🎓 I’m currently studying Mathematics (BSc)
 - 🔆 Dark or light theme? Light side (GitHub Light with a [fix](https://github.com/benitolopez/dotfiles-macos/blob/master/prefs/vscode/settings.json#L53))
 - 🎵 Music I love and play: jazz, experimental, noise, electronic, ambient. Guitar and synthesizers are my main instruments. I'm learning Max/MSP
-- 🎸 My best guitar? Martin HD28, but I always come back to my trusty tele
+- 🎸 My best guitar? Eastman T59/v (for jazz and to feel at home), Martin HD28 (acoustic) and my trusty tele for everything else
