@@ -1,12 +1,26 @@
-# Benito Lopez
-
-👋 Hi, I'm Benito, a senior web engineer. I love tackling challenging projects, learning new things, and refining my skills. I also have a passion for design and creating beautiful, user-friendly interfaces. In my spare time, I'm a [musician](https://www.instagram.com/iibrimusic/).
+👋 Hi, I’m Benito Lopez! I’m a software engineer with over 10 years of experience, passionate about full-stack development and crafting high-quality software solutions that make a difference.
 
 ## About Me
+I have a solid background in both frontend and backend development, with a focus on solving problems. Over the years, I’ve worked on a variety of projects, from contributing to popular products to building a successful SaaS business. I enjoy taking on challenges, developing custom features, and continuously learning new technologies.
 
-- 💻 Programming languages, frameworks and platforms I love and am working with? JavaScript, ES5/6, React, Next, Node, CSS, SASS/SCSS, Design, WordPress, PHP and Python
-- 🎓 I’m currently studying Mathematics (BSc)
-- 📚 I’m interested in Mathematics, Machine Learning and AI 
-- 🔆 Dark or light theme? Light side (GitHub Light with a [fix](https://github.com/benitolopez/dotfiles-macos/blob/master/prefs/vscode/settings.json#L53))
-- 🎵 Music I love and play: jazz, experimental, noise, electronic, ambient. Guitar and synthesizers are my main instruments
-- 🎸 My best guitar? Eastman T59/v (for jazz and to feel at home), Martin HD28 (acoustic) and my trusty tele for everything else
+## Technical Skills
+- Programming Languages: JavaScript, TypeScript, PHP, Go, Python
+- Web Technologies: React, Node.js, HTML, CSS, SCSS, jQuery, Next.js
+- Database Systems: MySQL, MariaDB, PostgreSQL
+- Developer Tools: Command Line, Git, Docker
+- Systems & Cloud Technologies: Linux, Apache, Nginx, Cloudflare, AWS
+
+## Key Projects
+- **[Uncode](https://undsgn.com/uncode):** Top seller WordPress theme (over 120,000 sales). I mainly deal with the backend, React (building components for the Block Editor) and the development of advanced and custom features for WooCommerce.
+- **[WP Hotelier](https://wphotelier.com/):** A WordPress booking plugin for building hotel websites. It may be boring, but it’s my first SaaS and it’s growing, enough to pay my bills.
+- **[Hotel Datepicker](https://github.com/benitolopez/hotel-datepicker):** A pure JavaScript date range picker for hotels or booking websites. It was tricky but fun to develop!
+- **[ssnipp](https://github.com/benitolopez/ssnipp):** Minimalist and private code snippet sharer written in Go. I use it to share snippets with my clients.
+
+## Professional Goals
+- **Career Development:** Focused on advancing my career in software development by contributing to innovative projects that push boundaries, create significant positive change, and allow me to use my skills creatively.
+- **Continuous Learning:** Dedicated to constantly expanding my knowledge, even by exploring areas outside of my comfort zone, to stay at the forefront of technology and enhance my coding expertise.
+
+## Connect
+- [Email](mailto:contact.benitolopez@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lopezbenito/)
+- [X](https://x.com/LopezBenito)
