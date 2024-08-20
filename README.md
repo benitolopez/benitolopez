@@ -24,3 +24,5 @@ I have a solid background in both frontend and backend development, with a focus
 - [Email](mailto:contact.benitolopez@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/lopezbenito/)
 - [X](https://x.com/LopezBenito)
+
+Feel free to DM or email me. I’m open to considering collaboration on open source projects.
