@@ -1,7 +1,5 @@
-👋 Hi, I’m Benito Lopez! I’m a software engineer with over 10 years of experience, passionate about full-stack development and crafting high-quality software solutions that make a difference.
-
 ## About Me
-I have a solid background in both frontend and backend development, with a focus on solving problems. Over the years, I’ve worked on a variety of projects, from contributing to popular products to building a successful SaaS business. I enjoy taking on challenges, developing custom features, and continuously learning new technologies.
+👋 Hi, I’m Benito Lopez! I’m a software engineer with over 10 years of experience and a solid background in both frontend and backend development. I’m passionate about solving problems, tackling challenging projects, and constantly learning. Over the years, I’ve worked on various projects, from contributing to popular products to building a successful SaaS business. I enjoy taking on challenges, developing custom features, and continuously learning new technologies.
 
 ## Technical Skills
 - Programming Languages: JavaScript, TypeScript, PHP, Go, Python
