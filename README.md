@@ -1,11 +1,12 @@
 ## About Me
-👋 Hi, I’m Benito Lopez! I’m a software engineer with over 10 years of experience and a solid background in both frontend and backend development. I’m passionate about solving problems and constantly learning. Over the years, I’ve worked on various projects, from contributing to popular products to building a successful SaaS business. I enjoy taking on challenges, developing custom features, and staying updated with the latest technologies.
+👋 Hi, I’m Benito Lopez! I’m a software engineer with over 10 years of experience and a solid background in both frontend and backend development. I’m passionate about solving problems and constantly learning. Over the years, I’ve worked on various projects, from contributing to popular products to creating open source projects. I enjoy taking on challenges, developing custom features, and staying updated with the latest technologies.
 
 ## Technical Skills
 - Programming Languages: JavaScript, TypeScript, PHP, C, Go, Python
 - Web Technologies: React, Node, HTML, CSS, SCSS, Next, jQuery
 - Database Systems: MySQL, MariaDB, PostgreSQL
 - Developer Tools: Command Line, Git, Docker
+- WordPress: Core architecture, plugin/theme development, WooCommerce development, Block Editor (Gutenberg) development, REST API, etc
 - Systems & Cloud Technologies: Linux, Apache, Nginx, Cloudflare, AWS
 
 ## Key Projects
@@ -23,7 +24,7 @@
 ## Connect
 - [Email](mailto:contact.benitolopez@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/lopezbenito/)
-- [Bluesky](https://bsky.app/profile/lopezbenito.bsky.social)
 - [X](https://x.com/LopezBenito)
+- [Bluesky](https://bsky.app/profile/lopezbenito.bsky.social)
 
 Feel free to DM or email me. I’m open to considering collaboration on open source projects.
