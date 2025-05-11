@@ -20,7 +20,7 @@
 - **Career Development:** Focused on advancing my career in software development by contributing to innovative projects that push boundaries and create significant positive change.
 - **Continuous Learning:** Dedicated to constantly expanding my knowledge, even by exploring areas outside of my comfort zone, to stay at the forefront of technology and enhance my coding expertise.
 - **Mathematics:** Passionate about deepening my understanding of mathematics (currently pursuing a degree part-time), particularly in areas that intersect with software development and AI.
-- 
+  
 ## Connect
 - [Email](mailto:contact.benitolopez@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/lopezbenito/)
