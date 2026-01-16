@@ -15,7 +15,6 @@
 - **[WP Hotelier](https://wphotelier.com/):** A WordPress booking plugin for building hotel websites. It may be boring, but it’s my first SaaS and it’s growing, enough to pay my bills.
 - **[Hotel Datepicker](https://github.com/benitolopez/hotel-datepicker):** A pure JavaScript date range picker for hotels or booking websites. It was tricky but fun to develop!
 - **[ssnipp](https://github.com/benitolopez/ssnipp):** Minimalist and private code snippet sharer written in Go. I use it to share snippets with my clients.
-- **[Machine Learning Experiments](https://github.com/benitolopez/ml-experiments):** My ongoing experiments with machine learning. Implementation of common algorithms and techniques from scratch.
 
 ## Connect
 - [Email](mailto:contact.benitolopez@gmail.com)
