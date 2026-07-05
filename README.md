@@ -8,13 +8,13 @@ My current focus is AI engineering, especially coding agents, developer tools, c
 
 ## Current work
 
-I’m building **ker**, a local-first AI coding-agent daemon.
+I’m building **ker**, an AI coding-agent daemon.
 
 The goal is to understand and build the core pieces of an agent system from first principles: streamed model replies, durable sessions, tool use, event logs, context ownership, and clear boundaries between the agent runtime and its clients.
 
 ## Selected work
 
-- **[ker](https://github.com/benitolopez/ker)** — local-first coding-agent daemon, currently in early development.
+- **[ker](https://github.com/benitolopez/ker)** — AI coding-agent daemon, currently in early development.
 - **[Limite](https://github.com/benitolopez/limite)** — probabilistic data structures as a network service: HyperLogLog, Bloom filters, Count-Min Sketch, and Top-K in a single Go binary speaking the Redis protocol.
 - **[Hotel Datepicker](https://github.com/benitolopez/hotel-datepicker)** — a JavaScript date-range picker for hotel and booking websites.
 - **[ssnipp](https://github.com/benitolopez/ssnipp)** — a small self-hosted code snippet sharing tool written in Go.
@@ -27,7 +27,7 @@ I write about software, side projects, and LLM-assisted development on [lopezb.c
 
 ## Interests
 
-AI agents, developer tools, local-first software, terminal workflows, TypeScript, Go, Linux, databases, mathematics, and systems that make their state visible.
+AI agents, developer tools, terminal workflows, TypeScript, Go, Linux, databases, mathematics, and simple software.
 
 ## Contact
 
