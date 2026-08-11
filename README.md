@@ -6,12 +6,6 @@ I have 10+ years of experience building web products, developer tools, WordPress
 
 My current focus is AI engineering, especially coding agents, developer tools, context management, and human-in-the-loop workflows.
 
-## Current work
-
-I’m building **ker**, an AI coding-agent daemon.
-
-The goal is to understand and build the core pieces of an agent system from first principles: streamed model replies, durable sessions, tool use, event logs, context ownership, and clear boundaries between the agent runtime and its clients.
-
 ## Selected work
 
 - **[ker](https://github.com/benitolopez/ker)** — AI coding-agent daemon, currently in early development.
